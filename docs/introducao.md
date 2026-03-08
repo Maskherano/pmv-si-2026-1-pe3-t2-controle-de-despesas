@@ -11,14 +11,16 @@ Dessa forma, observa-se que muitas pessoas ainda enfrentam dificuldades para aco
 
 ## 1.2. Objetivos do trabalho
 
-O nosso principal alvo no desenvolvimento deste projeto são as pessoas que desejam melhorar o seu relacionamento com o dinheiro, e estão almejando um conforto financeiro no futuro.
+O nosso principal objetivo no desenvolvimento deste projeto são as pessoas que desejam melhorar o seu relacionamento com o dinheiro, e estão almejando um conforto financeiro no futuro.
 
 <img width="446" height="314" alt="image" src="https://github.com/user-attachments/assets/ac35f0b6-b06f-49e5-a39e-a61e5eafe8c7" /> 
 
 (IJACSA) International Journal of Advanced Computer Science and Applications, 
 Vol. 12, Nº 1, 2021.
 
-Com base nisso, queremos oferecer um programa onde o usuário usará diáriamente para controle de despesas, pois tornam o acompanhamento e a organização do dinheiro muito mais fáceis e acessíveis.
+Com base nisso, queremos oferecer um programa onde o usuário usará diáriamente, facilitando o monitoramento das finanças em qualquer lugar. Com facilidade de uso e a interface intuitiva para até quem não possui conhecimento avançados em finanças consiga acompanhar seus gastos, Girdhar et al. (2024) enfatiza como a categorização e interfaces agradáveis desempenham um papel fundamental para garantir que as pessoas permaneçam motivadas com seu acompanhamento financeiro. 
+Como requisitos o sistema deve ter uma tela de login; registro de receitas; registro de despesas; categorias financeiras; controle do saldo; relatórios financeiros; planejamento financeiro; histórico e análise financeira;
+
 
 ## 1.3. Justificativa
 
