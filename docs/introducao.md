@@ -24,7 +24,7 @@ Desenvolver um sistema que permita o usuário registrar, organizar e analisar re
 
 ## 1.3. Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Em uma população onde o consumismo sem freio está em primeiro plano, é preciso  equilíbrio  no  momento  de realizar gastos para não gerar complicações nas finanças pessoais, como dívidas com altos valores que dificilmente são quitadas e, consequentemente, tendo o nome do incluído no sistema de proteção ao crédito. Foi pensando nisso que o nosso grupo concluiu que um projeto focado em controle financeiro seria o ideal para  desenvolver uma ferramenta capaz de auxiliar os usuários na organização de suas finanças pessoais e na tomada de decisões mais concientes sobre seus gastos.
 
 ## 1.4. Público alvo
 
