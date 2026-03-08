@@ -17,6 +17,7 @@ O nosso principal alvo no desenvolvimento deste projeto são as pessoas que dese
 
 (IJACSA) International Journal of Advanced Computer Science and Applications, 
 Vol. 12, Nº 1, 2021.
+
 Com base nisso, queremos oferecer um programa onde o usuário usará diáriamente para controle de despesas, pois tornam o acompanhamento e a organização do dinheiro muito mais fáceis e acessíveis.
 
 ## 1.3. Justificativa
