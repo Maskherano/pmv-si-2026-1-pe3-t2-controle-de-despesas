@@ -18,8 +18,8 @@ O nosso principal objetivo no desenvolvimento deste projeto são as pessoas que 
 (IJACSA) International Journal of Advanced Computer Science and Applications, 
 Vol. 12, Nº 1, 2021.
 
-Com base nisso, queremos oferecer um programa onde o usuário usará diáriamente, facilitando o monitoramento das finanças em qualquer lugar. Com facilidade de uso e a interface intuitiva para até quem não possui conhecimento avançados em finanças consiga acompanhar seus gastos, Girdhar et al. (2024) enfatiza como a categorização e interfaces agradáveis desempenham um papel fundamental para garantir que as pessoas permaneçam motivadas com seu acompanhamento financeiro. 
-Como requisitos o sistema deve ter uma tela de login; registro de receitas; registro de despesas; categorias financeiras; controle do saldo; relatórios financeiros; planejamento financeiro; histórico e análise financeira;
+Com facilidade de uso e a interface intuitiva para até quem não possui conhecimentos avançados em finanças consiga acompanhar seus gastos, Girdhar et al. (2024) enfatiza como a categorização e interfaces agradáveis desempenham um papel fundamental para garantir que as pessoas permaneçam motivadas com seu acompanhamento financeiro. 
+Desenvolver um sistema que permita o usuário registrar, organizar e analisar receitas e gastos, auxiliando o usuário no gerenciamento de suas finanças e na tomada de decisões financeiras.
 
 
 ## 1.3. Justificativa
